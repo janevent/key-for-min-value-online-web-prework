@@ -2,7 +2,8 @@
 # Given a hash with numeric values, return the key for the smallest value
 
 def key_for_min_value(name_hash)
-  new_array = []
+  min_key = nil
+  min_key = nil
   name_hash.each_pair do |key, value|
   new_array.push() 
 end

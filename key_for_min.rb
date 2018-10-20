@@ -3,6 +3,6 @@
 
 def key_for_min_value(name_hash)
   new_array = []
-  name_hash.each do |key, value|
+  name_hash.each_pair do |key, value|
   new_array.push() 
 end

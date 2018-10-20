@@ -5,5 +5,5 @@ def key_for_min_value(name_hash)
   min_key = nil
   min_key = nil
   name_hash.each_pair do |key, value|
-  new_array.push() 
+     
 end
